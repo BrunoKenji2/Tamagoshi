@@ -1,2 +1,3 @@
-# FAROL COM PUSH BOTTOM
-Farol que tem o tempo de duração alterado atraves do uso de botões no arduino
+# TAMAGOSHI
+Desenvolvimento de um tamagoshi no arduino com uso de leds para indicar o seu estado e botões para interagir com ele
+
